@@ -1,0 +1,19 @@
+h1{
+  color: aqua;
+  justify-content: center;
+  text-align: center;
+}
+
+.flex-d{
+
+  flex-direction: row;
+  margin: 100px;
+  padding: 200px;
+  background-color:#fab1a0;
+ 
+}
+.App{
+  background-color: #fd79a8;
+  flex-direction: row;
+}
+
